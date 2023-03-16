@@ -1,0 +1,31 @@
+header {
+    background-color: rgba(137, 43, 226, 0.54);
+}
+
+h2 {
+    background-color: rgba(255, 0, 0, 0.54);
+    color: blanchedalmond;
+}
+
+h3 {
+    background-color: lightseagreen;
+    color: darkblue;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+.info {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    border: 2px solid;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
